@@ -1,4 +1,4 @@
-# GESPE--software-de-gest-o-Pequ-ria
+# GESPE-software-de-gestao-Pequaria
 11.03.2022
 
 #### Equipa / Tarefas 
