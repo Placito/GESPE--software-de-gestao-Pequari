@@ -24,10 +24,11 @@ para consultar os dados anteriores e outra para alterar dados;
 2. Módulos:
     a)	Registo -> Nome, Email, IDEmpregado, password;
     b)	Login -> Escolher se pretende fazer login como gestor ou trabalhador;
-    c)	Gestação -> Criação, consulta, alteração na base de dados de gestação; 
-    d)	Maternidades -> Criação, consulta, alteração na base de dados de maternidade;
-    e)	Recria -> Criação, consulta, alteração na base de dados de recria;
-    f)	Engorda -> Criação, consulta, alteração na base de dados de engorda;
+    c)  Sector-> Escolher o sector que pretende aceder a base de dados;
+    d)	Gestação -> Criação, consulta, alteração na base de dados de gestação; 
+    e)	Maternidades -> Criação, consulta, alteração na base de dados de maternidade;
+    f)	Recria -> Criação, consulta, alteração na base de dados de recria;
+    g)	Engorda -> Criação, consulta, alteração na base de dados de engorda;
 
 
 #### 3. Funcionamento
