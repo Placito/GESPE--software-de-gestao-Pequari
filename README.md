@@ -34,11 +34,11 @@ para consultar os dados anteriores e outra para alterar dados;
 #### 3. Funcionamento
 Ponto de vista do cliente:
 - Fluxograma
-- Tarefas a desempenhar 
+- Tarefas a desempenhar  - inserir, consultar e alterar base de dados
 
 Ponto de vista da equipa de desenvolvimento
 - Fluxograma 
-- Tarefas a desempenhar
+- Tarefas a desempenhar - criação das base de dados, programação
 
 #### 4. Gestão do tempo
 - Definição de atividades
