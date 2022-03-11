@@ -1,4 +1,5 @@
-# GESPE-software-de-gestao-Pequaria
+# GESPE-software-de-gestao-Pequaria ola man 
+
 11.03.2022
 
 #### Equipa / Tarefas 
