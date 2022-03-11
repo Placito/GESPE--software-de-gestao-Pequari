@@ -1,4 +1,4 @@
-# GESPE-software-de-gestao-Pequaria ola man 
+# GESPE-software-de-gestao-Pecuaria 
 
 11.03.2022
 
