@@ -8,9 +8,7 @@ Sérgio Santos -
 Mariana Plácito - 
 
 #### 1. Breve descrição
-Esta aplicação pretende auxiliar na gestão, ou seja facilitar na armazenamento de dados e trocas de informações entre os diversos 
-trabalhadores. diminuindo o uso de papel  e a perca de informação que acontecia com a utilização de folhas entre cada sector, 
-onde armazenavam a informação via manual.
+Programa que permite auxiliar o trabalhador a gerir os dados de uma pecuária, neste caso uma pecuária de suíno, que permita a contabilização de animais e que ajuda a gerir todos os processos que se passam dentro da pecuária de forma simples e mais eficaz na gestão de dados.Evitando o uso de dossier extensos com papelada,    assim teremos toda a informação mais concisa em uma só aplicação.
 
 #### 2. Definições e acrónimos
 1.Funcionalidades:
