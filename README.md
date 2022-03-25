@@ -3,7 +3,8 @@
 11.03.2022
 
 #### Equipa / Tarefas 
-Gilvaneide Alecrim - 
+Complementamos as falhas uns dos outros
+Gilvaneide Alecrim - trabalha no desenvolvimento na 
 Sérgio Santos - 
 Mariana Plácito - 
 
