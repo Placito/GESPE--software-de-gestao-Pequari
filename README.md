@@ -39,7 +39,7 @@ Ponto de vista do cliente:
 
 Ponto de vista da equipa de desenvolvimento
 - Fluxograma (em anexo)
-- Tarefas a desempenhar - criação das base de dados, programação
+- Tarefas a desempenhar - criação das base de dados, programação, interface gráfica
 
 #### 4. Gestão do tempo
 - Definição de atividades
@@ -47,28 +47,40 @@ Ponto de vista da equipa de desenvolvimento
 
 #### 5. Gestão do Riscos
 Riscos de gestão do projeto:
-- Margem de tempo para a gestão do projeto
-- ...
+- Falta de tempo
+-  falta de conhecimentos suficientes para desenvolvimento do sistema
+-  conhecimento da area da aplicação para alguns membros reduzidos mas que já foi esclarecido
 
 Riscos Técnicos:
-- A curva de aprendizagem
-- Documentação
-- ...
+- A curva de aprendizagem foi significativa pois tinha mos alguma dificuldade em assuntos que não foram abordados neste curso
 
 #### 6. Gestão da comunicação
 Estratégia de comunicação adoptada
+utilizamos maioritariamente o teams como maneira de comunicar e trocar ficheiros entre nós para complementar as tarefas que cada um tinha
+usámos tambem o trello para atualizar o nosso percurso e ver o que tinhamos concluido e faltava concluir
 Tecnologias utilizadas na comunicação
+-GitHub
+-Trello
+-Visual Code
+-note pad ++
+-excell
+-powerpoint
+-Adobe Illustrator
 
 #### 7. Entregas do projeto
 11 de Abril de 2022
 #### 8. Testes
 - Periodo de testes
+- 11 de Abril 2022 e 12 de Abril 2022
 - Tipo de testes
-- Documentação dos testes
+- Verificação se está tudo conforme planeado
+- verificação se as bases de dados estão a corresponder
+- verificação e correção de erros
 
 #### 9. Data de lançamento
 12 de Abril de 2022
 #### 10. Assuntos em aberto e decisões pendentes
+Alguma alteração que surja no caminho caso não consigamos fazer arranjar uma solução ou caso seja necessário fazer alguma alteração ao metodo de acesso ou alguma alteração na base de dados
 
 #### 11. Suporte
 - Contacto
