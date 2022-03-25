@@ -3,10 +3,10 @@
 11.03.2022
 
 #### Equipa / Tarefas 
-Complementamos as falhas uns dos outros
-Gilvaneide Alecrim - trabalha no desenvolvimento na 
-Sérgio Santos - 
-Mariana Plácito - 
+Complementamos as falhas uns dos outros.
+Gilvaneide Alecrim - trabalha no desenvolvimento na interface; 
+Sérgio Santos - trabalha na criação das base de dados e ligação entre as páginas;
+Mariana Plácito - trabalha no desenvolvimento na interface; 
 
 #### 1. Breve descrição
 Programa que permite auxiliar o trabalhador a gerir os dados de uma pecuária, neste caso uma pecuária de suíno, que permita a contabilização de animais e que ajuda a gerir todos os processos que se passam dentro da pecuária de forma simples e mais eficaz na gestão de dados.Evitando o uso de dossier extensos com papelada,    assim teremos toda a informação mais concisa em uma só aplicação.
@@ -34,11 +34,11 @@ para consultar os dados anteriores e outra para alterar dados;
 
 #### 3. Funcionamento
 Ponto de vista do cliente:
-- Fluxograma
+- Fluxograma (em anexo)
 - Tarefas a desempenhar  - inserir, consultar e alterar base de dados
 
 Ponto de vista da equipa de desenvolvimento
-- Fluxograma 
+- Fluxograma (em anexo)
 - Tarefas a desempenhar - criação das base de dados, programação
 
 #### 4. Gestão do tempo
@@ -60,14 +60,14 @@ Estratégia de comunicação adoptada
 Tecnologias utilizadas na comunicação
 
 #### 7. Entregas do projeto
-
+11 de Abril de 2022
 #### 8. Testes
 - Periodo de testes
 - Tipo de testes
 - Documentação dos testes
 
 #### 9. Data de lançamento
-
+12 de Abril de 2022
 #### 10. Assuntos em aberto e decisões pendentes
 
 #### 11. Suporte
@@ -75,9 +75,7 @@ Tecnologias utilizadas na comunicação
 - Manual para o cliente
 
 #### 12. Matriz de RACI
-Atividades/Tarefas e Documentos (Ficheiro excel)
-Intervenientes e responsabilidades:
-*R(esponsável), A(provação), C(onsultado), I(nformado)*
+vai em anexo
 
 #### 13. Indicadores
 Taxa de sucesso/erro, Rakings
